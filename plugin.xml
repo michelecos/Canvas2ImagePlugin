@@ -36,7 +36,6 @@
 
     <!-- android -->
     <platform name="android">
-    	<framework src="libs/support-v4-r7" custom="true" />
 
         <config-file target="AndroidManifest.xml" parent="/*">
             <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
