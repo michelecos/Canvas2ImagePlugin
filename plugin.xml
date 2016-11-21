@@ -50,7 +50,6 @@
 
         <source-file src="src/android/Canvas2ImagePlugin.java" 
             target-dir="src/org/devgeeks/Canvas2ImagePlugin" />
-	<source-file src="src/android/libs/support-v4-r7.jar" target-dir="libs"/>
 
     </platform>
 
